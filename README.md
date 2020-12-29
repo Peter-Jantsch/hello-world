@@ -1,4 +1,4 @@
-# hello-world
-first repository
+# m121-sp21-hw1
+test repository
 
-Trying out github. Hello world. 
+Trying out github. Hello world.
