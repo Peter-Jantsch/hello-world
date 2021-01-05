@@ -1,7 +1,7 @@
 # m121-sp21-hw1
 A repository for the first homework assignment in Math 121: Introduction to Data Science at Wheaton College.
 
-This is my first repository, so bear with me as I figure out how everything works. 
+This is my first repository, so let me know if you come across any problems.
 
 Click the Binder icon below to interact with HW1 in the cloud:
 
