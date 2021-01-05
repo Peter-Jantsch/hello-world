@@ -5,9 +5,7 @@ This is my first repository, so bear with me as I figure out how everything work
 
 Click the Binder icon below to interact with HW1 in the cloud:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peter-Jantsch/m121-sp21-hw1/HEAD)
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peter-Jantsch/m121-sp21-hw1/main?filepath=hw01.ipynb)
 
 
 Homework 1 was adapted from course materials in UC Berkeley's Data 8, licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)
